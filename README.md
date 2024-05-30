@@ -3,7 +3,7 @@ Ideas for anyone to take and run with!
 
 Want to build something on Story but don't know what yet? This repo collates all ideas. If you have questions on any idea, just open an Issue referencing the number of the idea.
 
-1. **Figma Plugin**: Develop a plugin for Figma, Photoshop, and other popular creator tools that facilitates the registration of intellectual property (IP). This plugin would streamline the process for creators, allowing them to easily register their designs, artwork, and other creations directly from within their preferred design tool, ensuring that their IP is protected and properly documented from the moment of creation.
+1. **[Figma Plugin](https://x.com/muttonia/status/1794020634999369936)**: Develop a plugin for Figma, Photoshop, and other popular creator tools that facilitates the registration of intellectual property (IP). This plugin would streamline the process for creators, allowing them to easily register their designs, artwork, and other creations directly from within their preferred design tool, ensuring that their IP is protected and properly documented from the moment of creation. [Read the tweet!](https://x.com/muttonia/status/1794020634999369936)
 
 2. **Telegram Bot**: Create a Telegram bot that can be added to channels for IP registration. This bot would enable channel owners to register any images shared within the channel easily. Registration could be triggered by a consensus emoji reaction from the group members or directly by the image's author. This tool would simplify the IP registration process in group settings, promoting better IP management and protection in social media environments.
 
