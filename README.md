@@ -1,4 +1,4 @@
-# Ideas
+# Share Your Ideas
 Ideas for anyone to take and run with! 
 
 Want to build something on Story but don't know what yet? This repo collates all ideas. If you have questions on any idea, just open an Issue referencing the number of the idea.
