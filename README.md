@@ -12,8 +12,10 @@ Want to build something on Story but don't know what yet? This repo collates all
 4. **[Licensing Marketplace](https://x.com/muttonia/status/1801630991951532307)**: Build an optimized licensing marketplace for sourcing stock photos, stock videos, music for commercial use, audio sample packs, and field recordings. This platform would provide a comprehensive resource for creators looking to find high-quality, licensable content, making it easier for them to source the materials they need while ensuring that all content is properly licensed and credited. [Read the tweet!](https://x.com/muttonia/status/1801630991951532307)
 
 5. **Chat-GPT Plugin**: Create a plugin for Chat-GPT that either facilitates asset registration or assists users in understanding fair usage within metadata. This chatbot could answer questions like "Can I do x with y?" and help users navigate the complexities of IP law and fair usage policies, making it easier for them to use and share digital content responsibly.
+  * Created by DTEAM: [Overview](https://github.com/DTEAMTECH/contributions/blob/main/story/gpt-plugin/README.md) | [Link](https://chatgpt.com/g/g-rvVlzbSFF-story-protocol-assistant-by-dteam)
 
 6. **IP Graph Browser Extension**: Develop a browser extension that visualizes IP relationships and ownership. This tool would help users explore and understand the connections between different IP assets, providing a clear and interactive way to navigate the web of IP ownership. It would be particularly useful for creators, researchers, and legal professionals who need to track and manage IP rights.
+  * Created by DTEAM (It's demo, not all data included): [Link](https://graph-story.app)
 
 7. **Screenshot App**: Create an app for capturing still images and GIFs with rudimentary image editing capabilities and streamlined output. This app could potentially integrate with Magma for enhanced functionality. By offering simple editing tools and easy sharing options, this app would help users create and distribute high-quality screenshots while ensuring that their IP is protected.
 
