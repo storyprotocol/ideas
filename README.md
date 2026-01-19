@@ -1,3 +1,9 @@
+# Implemented our own idea and created personalized AI-powered crypto intelligence hub and validator monitoring telegram bot!
+[Check our Landing page](https://torpid-galette-1e7.notion.site/Crypto-Daily-Brief-1624ccff7c448069a7fcd3c2be925d2d) 
+
+<br/><br/><br/><br/>
+
+
 # Ideas
 Ideas for anyone to take and run with! 
 
